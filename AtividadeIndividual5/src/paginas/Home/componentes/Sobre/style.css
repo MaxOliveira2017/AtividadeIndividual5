@@ -1,0 +1,35 @@
+body {
+    background-image: url(../../../../../public/Assets/backgroundSite2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.containersobre {
+    height: 150%;
+    width: 80%;
+    background-color: red;
+}
+.teste4 {
+    height: 50vh;
+}
+
+.destaque {
+    color: rgb(241, 98, 63);
+    font-size: 60px;
+}
+
+.destaque1 {
+    text-align: center;
+    color: rgb(197, 143, 129);
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.viajar {
+    font-family: Verdana;
+    text-align: center;
+}
+
+
+
